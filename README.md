@@ -9,7 +9,7 @@ Java application with graphic user interface and database connection, secured fo
    
    - A teacher can see the lists of students, can add/edit/delete/update a grade for a student and can mention what was right/wrong at the homework, can add/edit/delete/update a homework with a deadline and modify the deadline, generate different reports.
    
-   - An admin can add/edit/delete/update students,teachers and admins in applications, can see a list of students, teachers and admins. The administrator is the one who assigns username and passwords for each person. 
+   - An admin can add/edit/delete/update students,teachers and admins in applications, can see a list of students, teachers and admins. The administrator is the one who assigns usernames and passwords for each person. 
    
    - The graphic interface is written in JavaFX and the database used is MySql.
    
