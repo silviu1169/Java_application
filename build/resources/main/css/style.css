@@ -1,0 +1,38 @@
+.button {
+    -fx-text-fill: white;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#189ae1, #175822);
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}
+.label {
+    -fx-font-size: 12px;
+    /*-fx-font-weight:bold;*/
+    -fx-text-fill: #2f5ae1;
+    -fx-effect: dropshadow( gaussian , rgba(214, 66, 20, 0.5), 0,0,0,1 );
+}
+.table-row-cell:selected {
+    -fx-background-color: #2334e1;
+
+}
+.table-row-cell:selected .text {
+    -fx-fill: #ffffff;
+}
+.check-box{
+    -fx-font-size: 12px;
+    -fx-text-fill: #2f5ae1;
+}
+
+.combo-box{
+    -fx-font-size: 12px;
+    -fx-text-fill: #2f5ae1;
+    -fx-prompt-text-fill:#2f5ae1 ;
+}
+
+.text-field{
+    -fx-text-fill: #2f5ae1;
+}
+
+.table-row-cell{
+    -fx-text-fill: #2f5ae1;
+}
